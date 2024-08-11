@@ -6,7 +6,7 @@ perform a clean installation without the need of Internet access.
 
 AL Installer follows the Arch Linux
 [Installation Guide](https://wiki.archlinux.org/index.php/Installation_guide)
-to set up the base environment and installs the [GNOME](https://www.gnome.org/)
+to set up the base environment and installs the [KDE Plasma](https://www.kde.org/)
 desktop environment along with several common drivers. Minimal configuration is
 done to ensure an out-of-the-box experience.
 
