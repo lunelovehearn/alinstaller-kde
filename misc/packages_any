@@ -12,6 +12,8 @@ fwupd
 ghex
 plasma
 plasma-welcome
+packagekit
+packagekit-qt6
 powerdevil
 kwayland
 plasma-wayland-protocols
@@ -43,10 +45,6 @@ pipewire-v4l2
 wireplumber
 libwireplumber
 libpipewire
-lib32-pipewire
-lib32-libpipewire
-lib32-pipewire-jack
-lib32-pipewire-v4l2
 pavucontrol
 qpwgraph
 python-babel
